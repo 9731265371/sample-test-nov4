@@ -1,0 +1,12 @@
+Class Anand {
+
+Public static void main(String main[]){
+
+System.out.println('anand Shetty");
+
+
+
+}
+
+
+}
